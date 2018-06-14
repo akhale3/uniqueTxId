@@ -1,0 +1,12 @@
+{
+  "name": "uniquetxid",
+  "version": "1.0.0",
+  "description": "Generate a set of unique, sequential, non-colliding transaction ID values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anish Khale",
+  "license": "ISC",
+  "dependencies": {}
+}
